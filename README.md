@@ -4,7 +4,6 @@
 npm init --yes
 npm install algosdk
 npm list algosdk
-
 ```
 
 ## Create Wallet
